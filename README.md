@@ -77,7 +77,7 @@ yum install curl
 curl -X POST https://httpbin.org/anything
 ```
 
-[httpbin.org](httpbin.org) 会在响应中原样返回请求正文和标头。你的响应应如下所示：
+[httpbin.org](https://httpbin.org) 会在响应中原样返回请求正文和标头。你的响应应如下所示：
 
 ```json
 {

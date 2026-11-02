@@ -1,6 +1,6 @@
 # 发送 cURL POST 请求
 
-[![推广](https://github.com/bright-cn/LinkedIn-Scraper/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner.png)](https://www.bright.cn/) 
+[![推广](https://github.com/bright-cn/Awesome-Web-Scraping/raw/main/Proxies%20and%20scrapers%20GitHub%20bonus%20banner%20CN.png)](https://www.bright.cn/) 
 
 [cURL](https://www.bright.cn/blog/web-data/what-is-curl#:~:text=curl%2C%20short%20for%20%E2%80%9Cclient%20URL,%2C%20cars%2C%20and%20medical%20devices.) 是一款用于传输数据的命令行工具，最常见的用途是发送 HTTP 请求。你可以用它向 REST API 发送请求并抓取网站。本指南将介绍什么是 cURL POST 请求、如何发送该请求，以及发送时可以使用哪些命令行参数。
 
